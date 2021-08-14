@@ -1,0 +1,256 @@
+
+	*{
+        margin:0px;
+        padding: 00px;
+    }
+    body{
+        background:rebeccapurple;
+
+        
+    }
+    #mainbody{
+
+
+      width: 820px;
+      background-color: gray;
+      margin-left: 260px;
+      border-radius: 50px;
+
+
+
+    }
+    #headingpic{
+
+        margin-left: 340px;
+        margin-top: 20px;
+        border-style: solid 5px black;
+
+    }
+    #headingpic img{
+
+        height: 130px;
+        width: 150px;
+        border-radius: 180px;
+        border: 5px solid #d8c30b;
+        box-shadow: 0px 4px 14px 6px #000;
+    }
+    #name h1{
+
+        margin-left: 200px;
+        font-size: 50px;				
+    }
+    #name h4{
+
+        font-size: 20px;
+        font-family: Verdana;
+        margin-left: 340px;
+    }
+ #objective h4{
+
+   margin-top: 10px;
+
+     width: 740px;
+     height: 70px;
+     margin-left: 38px;
+     font-size: 17px;
+
+ }
+    th{
+        background: black;
+        height: 5px;
+        width: 950px; 		
+    }
+    table{
+   
+        
+
+    }
+   #maincontainer::after{
+
+      content: "";
+      display: block;
+      clear: both;
+
+
+   }
+    #maincontainer table{
+        margin-left: 400px;
+
+    }
+    #maincontainer th{
+        background: black;
+        height: 1000px;
+        width: 5px;
+
+
+    }
+   #left{
+
+      float: left;
+      margin-left: 50px;
+      margin-top: 5px;
+      padding: 10px;
+
+   }
+   #about {
+       line-height: 1.6;
+
+
+   }
+   #about h2{
+
+      font-size: 25px;
+
+   }
+   #about h4{
+     font-size: 15px;
+      padding: 10px;
+   }
+   #about p{
+
+      float: right;
+      font-size: 15px;
+   }
+   #permadress {
+
+     line-height: 1.6;	
+
+  }
+   #permadress h2{
+
+     font-size: 25px;
+
+  }
+  #permadress h4{
+    font-size: 15px;
+     padding: 10px;
+  }
+  #currentaddress{
+
+     line-height: 1.6;	
+
+
+  }
+  #currentaddress h2{
+
+     font-size: 25px;
+
+  }
+  #currentaddress h4{
+     font-size: 15px;
+     padding: 10px;
+  }
+
+  #techenical{
+
+     line-height: 1.6;
+
+  }
+  #techenical h2{
+
+    font-size: 25px;
+
+  }
+  #techenical h4{
+    font-size: 15px;
+     padding: 10px;
+  }
+  #language {
+
+     line-height: 1.6;
+
+  }
+  #language h2{
+
+    font-size: 25px;
+
+  }
+  #language h4{
+     font-size: 15px;
+     padding: 10px;
+  }
+   #shape{
+
+      float: right;
+      width: 5px;
+      height: 850px;
+      margin-left: 10px;
+      background: black;
+      
+   }
+   #right{
+
+      float: right;
+      margin-top: 5px;
+      width: 370px;
+      margin-left: 30px;
+      padding: 10px;
+
+   }
+   #academic {
+
+     line-height: 1.6;
+
+  }
+   #academic h2{
+
+     font-size: 25px;
+
+  }
+  #academic h4{
+     font-size: 15px;
+     padding: 10px;
+  }
+  
+  #skill {
+
+     line-height: 1.6;
+
+  }
+   #skill h2{
+
+     font-size: 25px;
+
+  }
+  #skill h4{
+     font-size: 15px;
+     padding: 10px;
+  }
+  
+  #certificates {
+
+     line-height: 1.6;
+
+  }
+   #certificates h2{
+
+     font-size: 25px;
+
+  }
+  #certificates h4{
+     font-size: 15px;
+     padding: 10px;
+  }
+  #certificates a{
+
+     color: blue;
+
+  }
+ #intrest{
+
+     margin-top: 10px;
+
+ }
+  #intrest img {
+
+     width: 40px;
+     height: 40px;
+     margin-top: 30px;
+     padding-right: 40px;
+
+  }
+   #certificates h2{
+
+    font-size: 25px;
+
+  }

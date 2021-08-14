@@ -1,0 +1,14 @@
+
+body{
+	background-color: rgb(6, 142, 184);
+
+}
+#cf{
+    margin-top: 30px;
+    background-image: url("img/adca.png");
+
+    margin-left: 260px;
+    height: 595px;
+    width: 842px;
+	border: 5px solid rgb(99, 37, 6);
+}
